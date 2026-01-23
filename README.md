@@ -4,15 +4,22 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="alfaromartinezefrain@gmail.com">alfaromartinezefrain@gmail.com</a>
+I am a self-taught software developer with a technical background in web development, focused on building practical and functional applications.
+
+My main interest lies in **backend-oriented development**, working with logic, data handling, and system behavior, while also having experience with modern frontend tools when needed.
+
+I enjoy learning by building projects, solving problems, and improving how software is structured and maintained.
+
+- 🌱 Currently strengthening my knowledge in:
+  - Backend fundamentals
+  - API design and data management
+    
+- 👯 Open to collaborating on small projects and open-source initiatives
+- ✔ Open to discussing JavaScript, TypeScript, databases, and problem-solving
+- Outside tech, I enjoy streaming, videogames, music
+
+📫 **Contact:**  
+<a href="mailto:alfaromartinezefrain@gmail.com">alfaromartinezefrain@gmail.com</a>
 
 ## My Skills Include
 
