@@ -52,11 +52,19 @@ I enjoy learning by building projects, solving problems, and improving how softw
 
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center">Estadísticas de GitHub</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=Efrain-alfaro&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Efrain-alfaro)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Efrain-alfaro&theme=material-palenight)](https://github.com/Efrain-alfaro)
+<div align="center">
+  <!-- Stats generales - usa un mirror que funcione -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Efrain-alfaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas" />
 
+  <!-- Streak - mirror alternativo -->
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Efrain-alfaro&theme=tokyonight&hide_border=true&locale=es" alt="Racha" />
+</div>
 
+<div align="center">
+  <!-- Lenguajes -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Efrain-alfaro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+</div>
 
 </div>
